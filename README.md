@@ -22,3 +22,4 @@ Ce dépôt contient des scripts pour configurer un tunnel WireGuard entre un ser
 - Vérifier les IP et la notation CIDR.
 - Vérifiez les journaux WireGuard pour toute erreur avec ```journalctl -u wg-quick@wg0```.
 - Article 22 (TMTC).
+- [Ceci](https://superuser.com/questions/1770829/how-to-setup-a-vpn-tunnel-using-wireguard) peut aider, ou encore [celui là](https://www.ionos.fr/digitalguide/serveur/outils/wireguard-vpn-principes-de-base/)
